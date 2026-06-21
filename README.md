@@ -1,4 +1,4 @@
-# 🏎️ Prometheus RC Rover
+# 🏎️ Prometheus RC
 
 **Creador:** Ernesto Torregrosa Palacio (Exalumno CEU)
 
